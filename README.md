@@ -1,2 +1,3 @@
 # You-Me-ChatGPT-Make-Three-Getting-Started-with-SAS-Coding
-You + Me + ChatGPT Make Three: Getting Started with SAS® Coding
+
+This hands-on workshop explores how large language models (LLMs), such as ChatGPT, can serve as a practical partner in SAS®  code development—especially for those learning to code or working in new environments. We’ll focus on three high-impact use cases: (1) generating a first draft of code to get you 80–90% of the way to a working solution, (2) understanding complex code written by someone else (or you, years ago), and (3) creating clear, maintainable documentation for your projects. You’ll also learn best practices for prompting and interacting with LLMs to get higher-quality, more reliable results—so you can work faster without skipping the learning process.
